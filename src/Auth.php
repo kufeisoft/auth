@@ -56,7 +56,7 @@ CREATE TABLE `think_auth_group_access` (
 	KEY `group_id` (`group_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
  */
-use think\Db;
+use think\facade\Db;
 
 class AuthService{
 	//获取对应的设置
