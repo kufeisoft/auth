@@ -58,7 +58,7 @@ CREATE TABLE `think_auth_group_access` (
  */
 use think\facade\Db;
 
-class AuthService{
+class Auth{
 	//获取对应的设置
 	protected static function config($param){
 		$config =   [
