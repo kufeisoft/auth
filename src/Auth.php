@@ -1,5 +1,5 @@
 <?php
-namespace Kufeisoft;
+namespace kufeisoft;
 	/**
 	 * 权限认证类
 	 * 功能特性：
