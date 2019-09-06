@@ -1,5 +1,5 @@
 <?php
-namespace Kufeisoft\Auth;
+namespace Kufeisoft;
 	/**
 	 * 权限认证类
 	 * 功能特性：
